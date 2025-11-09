@@ -1,0 +1,5 @@
+{
+  "name": "Editor de Fotos Nano Banana",
+  "description": "Una aplicación web para editar fotos usando el modelo Gemini Nano Banana (gemini-2.5-flash-image). Sube una imagen, escribe una instrucción y deja que la IA la transforme.",
+  "requestFramePermissions": []
+}
